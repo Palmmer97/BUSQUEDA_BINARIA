@@ -1,0 +1,6 @@
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\BUSQUEDABINARIA\BUSQUEDABINARIA\bin\Debug\BUSQUEDABINARIA.exe.config
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\BUSQUEDABINARIA\BUSQUEDABINARIA\bin\Debug\BUSQUEDABINARIA.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\BUSQUEDABINARIA\BUSQUEDABINARIA\bin\Debug\BUSQUEDABINARIA.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\BUSQUEDABINARIA\BUSQUEDABINARIA\obj\Debug\BUSQUEDABINARIA.csprojResolveAssemblyReference.cache
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\BUSQUEDABINARIA\BUSQUEDABINARIA\obj\Debug\BUSQUEDABINARIA.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\BUSQUEDABINARIA\BUSQUEDABINARIA\obj\Debug\BUSQUEDABINARIA.pdb
